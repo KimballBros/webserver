@@ -22,7 +22,8 @@ export default {
     return {
       title: 'Kimball Bros',
       taglines: [
-        { message: 'We \'dem boys' }
+        { message: 'We \'dem boys' },
+        { message: 'We do business' }
       ],
       links: [
         {
