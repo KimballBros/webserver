@@ -28,7 +28,7 @@ export default {
       links: [
         {
           text: 'Email',
-          url: 'mailto:kimballbros@gmail.com'
+          url: 'mailto:the.boys@kimballbros.com'
         },
         {
           text: 'Github',
